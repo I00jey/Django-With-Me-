@@ -1,2 +1,2 @@
-# Django-With-Me-
+# Django_With_Me
 Django Self-Studying
